@@ -3,6 +3,7 @@
 Predicting customer loan default risk using machine learning and financial feature engineering.
 
 **Project Overview**
+
 Built an end-to-end classification pipeline on 35,000+ customer financial profiles to identify borrowers at risk of default. The project focuses on data preprocessing, feature engineering, model optimization, and comparative evaluation of multiple machine learning algorithms.
 
 **Tech Stack**
@@ -38,6 +39,7 @@ The Decision Tree achieved the best overall performance:
   - Precision: 81.5%
   - Recall: 77.4%
   - F1 Score: 79.4%
+
 The project demonstrated that domain-specific financial risk features significantly improved borrower risk separation and model performance.
 
 **Key Learnings**
